@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Macroeconomic Dashboard</title>
+</head>
+<body>
+    <h1>Welcome to the Macroeconomic Dashboard</h1>
+    <p>Data updates every 5 minutes.</p>
+    <ul>
+        <li><a href="/data">View Raw Data</a></li>
+        <li><a href="/chart">View Inflation Chart</a></li>
+        <li><a href="/score">View Score</a></li>
+    </ul>
+</body>
+</html>
